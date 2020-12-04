@@ -1,7 +1,7 @@
 ## Hi there 👋&nbsp;
 ### 😀 About Me
 I am Eli, also known as *Dolphinbob*!
-I'm in 8th grade programming and playing Minecraft in my freetime.
+I'm in 8th grade programming and playing Minecraft in my freetime. I am also a member of [HackClub](https://hackclub.com/)!
 &nbsp;
 ### 🧠 Current Languages I know
 * Java
