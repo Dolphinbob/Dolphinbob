@@ -1,4 +1,17 @@
-### Hi there 👋
+## Hi there 👋&nbsp;
+### 😀 About Me
+I am Eli, also known as *Dolphinbob*!
+I'm in 8th grade programming and playing Minecraft in my freetime.
+&nbsp;
+### 🧠 Current Languages I know
+* Java
+* Python
+* HTML / CSS
+* JavaScript
+&nbsp;
+## 🌱 I’m currently learning
+* React.js
+* Minecraft Server Plugin Development
 
 <!--
 **Dolphinbob/Dolphinbob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
